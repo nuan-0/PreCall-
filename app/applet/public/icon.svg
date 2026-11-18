@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#ffffff" />
+  <rect x="134" y="134" width="280" height="280" fill="#c4b5fd" />
+  <rect x="98" y="98" width="280" height="280" fill="#8b5cf6" />
+  <text x="238" y="260" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="140" letter-spacing="-2" fill="#ffffff" text-anchor="middle" dominant-baseline="central">PR</text>
+</svg>

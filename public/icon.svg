@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Transparent background for general use, white for maskable fallback if needed. Let's use transparent root, but add a large white circle/box if we want. Actually, for PWA icons it's best to have no padding and let the device mask it, OR provide a padded version. The previous was padded. Let's make the logo take up more space so it's not "lame" and tiny. -->
+  <rect width="512" height="512" fill="#ffffff" />
+  
+  <!-- Shadow offset -->
+  <rect x="64" y="80" width="384" height="384" fill="#ddd6fe" />
+  
+  <!-- Main Purple Square -->
+  <rect x="48" y="64" width="384" height="384" fill="#8b5cf6" />
+  
+  <!-- Inner Bevel/Border -->
+  <rect x="68" y="84" width="344" height="344" fill="none" stroke="#a78bfa" stroke-width="16" />
+  
+  <text x="240" y="280" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="200" letter-spacing="-4" fill="#ffffff" text-anchor="middle" dominant-baseline="central">PR</text>
+</svg>
